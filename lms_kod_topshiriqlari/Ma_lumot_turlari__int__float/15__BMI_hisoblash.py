@@ -1,0 +1,1 @@
+print(f"BMI: {float(input()) / (float(input()) ** 2):.1f}")
