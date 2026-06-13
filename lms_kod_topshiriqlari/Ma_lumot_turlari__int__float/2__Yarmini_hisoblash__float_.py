@@ -1,0 +1,1 @@
+print(f"Half: {float(input())/2}")
