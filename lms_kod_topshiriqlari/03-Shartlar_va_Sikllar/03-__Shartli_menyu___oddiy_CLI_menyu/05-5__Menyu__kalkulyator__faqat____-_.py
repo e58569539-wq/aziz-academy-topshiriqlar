@@ -1,6 +1,6 @@
 a, b, op = input().split()
-a = float(a)
-b = float(b)
+a = int(a)
+b = int(b)
 
 if op == "+":
     print(a + b)
