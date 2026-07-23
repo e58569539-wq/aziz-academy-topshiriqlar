@@ -1,38 +1,33 @@
-# 🎓 Aziz Academy — MADATOV ASILBEK
+# 🎓 Aziz Academy — Madatov Asilbek
 
 **Kurs:** Dasturlash / IT
 
 ## 📊 Umumiy progress
 
-`███░░░░░░░░░░░░░░░░░` **15%**  (26/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **12%**  (22/179 mavzu)
 
-- ⭐ Jami ball: **27550**
-- 📤 GitHubga yuborilgan topshiriqlar: **556**
+- ⭐ Jami ball: **39929**
+- 📤 GitHubga yuborilgan topshiriqlar: **558**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **while sikli ⭐ — shartga asoslangan takrorlash**
+**MODUL 2 — Stringlar va Formatlash** → **Escape belgilar — \n, \t, \\, \"**
 
-➡️ Keyingi mavzu: *break va continue — sikldan chiqish va o'tkazib yuborish*
+➡️ Keyingi mavzu: *Ko'p qatorli stringlar — """...""", docstring*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ if / elif / else ⭐ — shart operatorlari asoslari
-- ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash
-- ✅ 🛠 Shartli menyu — oddiy CLI menyu
-- ✅ while sikli ⭐ — shartga asoslangan takrorlash  ← yetgan joyingiz
-- ⬜ break va continue — sikldan chiqish va o'tkazib yuborish
-- ⬜ for va range() ⭐ — ketma-ket takrorlash
-- ⬜ for bilan kolleksiyalar — string/list bo'ylab yurish
-- ⬜ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
-- ⬜ Filtrlash — juft sonlar, musbat sonlar ajratish
-- ⬜ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
-- ⬜ Nested loop — ko'paytirish jadvali
-- ⬜ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
-- ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) — random + while
-- ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator — menyu + sikl
-- ⬜ Infinite loop 🔁 — cheksiz sikl muammosi va oldini olish
+- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
+- ✅ String metodlari — 1: lower, upper, strip, title
+- ✅ String metodlari — 2: replace, find, count, split, join
+- ✅ in operatori — substring izlash, mavjudlikni tekshirish
+- ✅ f-string ⭐ — zamonaviy formatlash (f"{ism}")
+- ✅ Boshqa formatlash — .format() va % (eski usullar)
+- ✅ Escape belgilar — \n, \t, \\, \"  ← yetgan joyingiz
+- ⬜ Ko'p qatorli stringlar — """...""", docstring
+- ⬜ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
+- ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
 
 </details>
 
@@ -42,7 +37,7 @@
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | 🔸 Stringlar va Formatlash | `███████░░░` 70% | 7/10 |
-| 3 | 🔸 Shartlar va Sikllar | `███░░░░░░░` 27% | 4/15 |
+| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -63,4 +58,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-10 09:57</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-23 07:21</sub>
