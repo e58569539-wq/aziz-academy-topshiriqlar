@@ -6,14 +6,14 @@
 
 `████░░░░░░░░░░░░░░░░` **20%**  (35/179 mavzu)
 
-- ⭐ Jami ball: **60776**
-- 📤 GitHubga yuborilgan topshiriqlar: **721**
+- ⭐ Jami ball: **60881**
+- 📤 GitHubga yuborilgan topshiriqlar: **722**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **Filtrlash — juft sonlar, musbat sonlar ajratish**
+**MODUL 3 — Shartlar va Sikllar** → **Hisoblash ⭐ — max, min, yig'indi, o'rtacha**
 
-➡️ Keyingi mavzu: *Hisoblash ⭐ — max, min, yig'indi, o'rtacha*
+➡️ Keyingi mavzu: *Nested loop — ko'paytirish jadvali*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -26,8 +26,8 @@
 - ✅ for va range() ⭐ — ketma-ket takrorlash
 - ✅ for bilan kolleksiyalar — string/list bo'ylab yurish
 - ✅ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
-- ✅ Filtrlash — juft sonlar, musbat sonlar ajratish  ← yetgan joyingiz
-- ⬜ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
+- ✅ Filtrlash — juft sonlar, musbat sonlar ajratish
+- ✅ Hisoblash ⭐ — max, min, yig'indi, o'rtacha  ← yetgan joyingiz
 - ⬜ Nested loop — ko'paytirish jadvali
 - ⬜ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
 - ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) — random + while
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-30 17:01</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-30 17:08</sub>
