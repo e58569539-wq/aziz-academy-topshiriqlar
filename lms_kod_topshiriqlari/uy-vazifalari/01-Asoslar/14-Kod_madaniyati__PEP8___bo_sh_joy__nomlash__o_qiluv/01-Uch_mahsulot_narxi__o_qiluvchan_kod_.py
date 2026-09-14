@@ -1,7 +1,6 @@
-olma_narxi = int(input())
-banan_narxi = int(input())
-gilos_narxi = int(input())
+narx_1 = int(input())
+narx_2 = int(input())
+narx_3 = int(input())
 
-umumiy_summa = olma_narxi + banan_narxi + gilos_narxi
-
+umumiy_summa = narx_1 + narx_2 + narx_3
 print(umumiy_summa)
