@@ -1,7 +1,6 @@
-matn = input()
+s = input()
 
-tozalangan_matn = matn.strip()
+tozalangan = s.strip()
 
-print(tozalangan_matn)
-
-print(len(tozalangan_matn))
+print(tozalangan)
+print(len(tozalangan))
