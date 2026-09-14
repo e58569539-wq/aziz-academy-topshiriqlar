@@ -1,6 +1,4 @@
 a = int(input())
 b = int(input())
 
-ortacha = (a + b) / 2
-
-print(ortacha)
+print((a + b) / 2)
