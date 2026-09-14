@@ -1,5 +1,2 @@
-soz = input()
-
-teskari = soz[::-1]
-
-print(teskari)
+s = input().strip()
+print(s[::-1])
