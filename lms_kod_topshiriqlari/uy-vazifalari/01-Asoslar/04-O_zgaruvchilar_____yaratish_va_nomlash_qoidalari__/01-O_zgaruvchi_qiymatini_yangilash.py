@@ -1,5 +1,4 @@
-holat = "Boshlandi"
-print(holat)
-
-holat = "Tugadi"
-print(holat)
+halat = "Boshlandi"
+print(halat)
+halat = "Tugadi"
+print(halat)
