@@ -1,4 +1,3 @@
 soz = "dasturlash"
-
-print(f"So'z: {soz}")
-print(f"Uzunligi: {len(soz)}")
+print("So'z:", soz)
+print("Uzunligi:", len(soz))
