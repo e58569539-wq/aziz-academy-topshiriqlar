@@ -1,5 +1,5 @@
 a = 6
-b = 3 
+b = 3
 
-print("Ko'paytma:", a * b)
-print("Bo'linma:", a / b)
+print(f"Ko'paytma: {a * b}")
+print(f"Bo'linma: {a / b}")
