@@ -1,6 +1,6 @@
 soni = int(input())
-narxi = float(input())
+narx = float(input())
 
-jami = soni * narxi 
+jami = soni * narx
 
 print("Jami: " + str(jami) + " som")
