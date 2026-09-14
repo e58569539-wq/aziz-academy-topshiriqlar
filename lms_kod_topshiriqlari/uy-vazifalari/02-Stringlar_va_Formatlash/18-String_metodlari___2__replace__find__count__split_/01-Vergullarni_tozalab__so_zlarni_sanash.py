@@ -1,12 +1,8 @@
-gap = input()
+matn = input().replace(",", " ")
 
-tozalangan_boshliq = gap.replace(",", " ")
+sozlar = matn.split()
 
-sozlar_royxati = tozalangan_boshliq.split()
+tozalangan_gap = " ".join(sozlar)
 
-chiroyli_gap = " ".join(sozlar_royxati)
-
-sozlar_soni = len(sozlar_royxati)
-
-print(chiroyli_gap)
-print(sozlar_soni)
+print(tozalangan_gap)
+print(len(sozlar))
