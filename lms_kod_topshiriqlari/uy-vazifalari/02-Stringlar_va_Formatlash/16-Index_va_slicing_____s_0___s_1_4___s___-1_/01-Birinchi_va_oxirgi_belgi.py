@@ -1,4 +1,4 @@
-soz = input()
+s = input()
 
-print(soz[0])
-print(soz[-1])
+print(s[0])
+print(s[-1])
