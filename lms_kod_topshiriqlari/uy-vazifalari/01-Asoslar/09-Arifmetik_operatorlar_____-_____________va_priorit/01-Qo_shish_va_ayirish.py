@@ -1,5 +1,5 @@
-a = 19
-b = 11
+a = 15
+b = 4
 
-print("Yig'indi: 19")
-print("Ayirma: 11")
+print("Yig'indi:", a + b)
+print("Ayirma:", a - b)
