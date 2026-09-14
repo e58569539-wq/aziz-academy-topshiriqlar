@@ -1,5 +1,8 @@
-a = int(input())
-b = int(input())
+eni = int(input())
+boyi = int(input())
 
-print(a * b)
-print(2 * (a + b))
+yuza = eni * boyi
+perimetr = 2 * (eni + boyi)
+
+print(yuza)
+print(perimetr)
