@@ -1,6 +1,4 @@
-kod = input()
-rol = input()
+kod = input().strip()
+rol = input().strip()
 
-ruxsat = (kod == "1234") or (rol == "admin")
-
-print(ruxsat)
+print(kod == "1234" or rol == "admin")
