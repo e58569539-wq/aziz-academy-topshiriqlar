@@ -1,5 +1,2 @@
 soz = input()
-
-uzunlik = len(soz)
-
-print(f"Uzunlik: {uzunlik}")
+print(f"Uzunlik: {len(soz)}")
