@@ -1,3 +1,3 @@
-soz = input()
+s = input()
 
-print('a' in soz)
+print('a' in s)
