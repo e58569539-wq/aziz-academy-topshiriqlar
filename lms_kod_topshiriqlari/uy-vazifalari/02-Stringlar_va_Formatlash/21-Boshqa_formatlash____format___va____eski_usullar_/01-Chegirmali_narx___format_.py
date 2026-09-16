@@ -1,6 +1,6 @@
 narx = int(input())
 chegirma = int(input())
 
-yakuniy = narx * (100 -chegirma) // 100 
+yakuniy_narx = narx * (100 - chegirma) // 100
 
-print(f"Yakuniy narx: {yakuniy} so'm")
+print("Yakuniy narx: {} so'm".format(yakuniy_narx))
