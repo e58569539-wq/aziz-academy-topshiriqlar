@@ -1,7 +1,6 @@
 n = int(input())
-
-yigindi = 0 
-i = 1 
+yigindi = 0
+i = 1
 
 while i <= n:
     yigindi += i
