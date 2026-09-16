@@ -1,5 +1,2 @@
-s = input() 
-
-palindrommi = (s == s[::-1])
-
-print(palindrommi)
+s = input().strip()
+print(s == s[::-1])
