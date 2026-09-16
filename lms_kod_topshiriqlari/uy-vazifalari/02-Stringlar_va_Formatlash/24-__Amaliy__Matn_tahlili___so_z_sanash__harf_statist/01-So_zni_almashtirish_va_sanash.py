@@ -1,9 +1,8 @@
-text = input()
-word = input()
+matn = input()
+soz = input()
 
-word_count = text.count(word)
+yangilangan_matn = matn.replace(soz, soz.upper())
+soni = matn.count(soz)
 
-new_text = text.replace(word, word.upper())
-
-print(new_text)
-print(word_count)
+print(yangilangan_matn)
+print(soni)
