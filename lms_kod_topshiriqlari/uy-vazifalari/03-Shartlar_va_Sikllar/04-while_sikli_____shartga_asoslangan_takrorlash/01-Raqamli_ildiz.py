@@ -1,11 +1,11 @@
 n = int(input())
 
 while n >= 10:
-    s = 0
-    
-    while n > 0:
-        s += n % 10
-        n //= 10
-    n = s
+    yigindi = 0
+    temp = n
+    while temp > 0:
+        yigindi += temp % 10
+        temp //= 10
+    n = yigindi
     
 print(n)
