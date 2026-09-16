@@ -3,7 +3,7 @@ topildi = False
 
 for _ in range(n):
     son = int(input())
-    if not topildi and son % 7 == 0:
+    if son % 7 == 0:
         print(son)
         topildi = True
         break
