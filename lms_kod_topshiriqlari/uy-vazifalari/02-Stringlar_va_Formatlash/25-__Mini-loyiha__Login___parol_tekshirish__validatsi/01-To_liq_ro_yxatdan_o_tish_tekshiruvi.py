@@ -1,6 +1,5 @@
 login = input()
-password = input()
+parol = input()
 
-is_valid = (len(login) >= 3) and (len(password) >= 8) and (login != password)
-
-print(is_valid)
+natija = len(login) >= 3 and len(parol) >= 8 and login != parol
+print(natija)
