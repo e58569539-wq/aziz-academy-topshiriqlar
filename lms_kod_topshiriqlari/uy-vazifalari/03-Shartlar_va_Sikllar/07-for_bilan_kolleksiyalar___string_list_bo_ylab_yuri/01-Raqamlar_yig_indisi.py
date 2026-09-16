@@ -1,6 +1,8 @@
-s = input()
-total = 0
-for ch in s:
-    total += int(ch)
+matn = input()
+
+yigindi = 0
+
+for ch in matn:
+    yigindi += int(ch)
     
-print(total)
+print(yigindi)
