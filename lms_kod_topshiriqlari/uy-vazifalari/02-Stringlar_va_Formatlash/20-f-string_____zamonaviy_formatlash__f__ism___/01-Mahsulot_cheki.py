@@ -1,10 +1,10 @@
-nomi = input()
-narxi = int(input())
+nom = input()
+narx = int(input())
 soni = int(input())
 
-jami = narxi * soni
+jami = narx * soni
 
-print(f"Mahsulot: {nomi}")
-print(f"Narxi: {narxi} som")
+print(f"Mahsulot: {nom}")
+print(f"Narxi: {narx} som")
 print(f"Soni: {soni}")
 print(f"Jami: {jami} som")
