@@ -1,5 +1,8 @@
 n = int(input())
-s = 0
+yigindi = 0
+
 for _ in range(n):
-    s += int(input())
-print(s)
+    son = int(input())
+    yigindi += son
+    
+print(yigindi)
