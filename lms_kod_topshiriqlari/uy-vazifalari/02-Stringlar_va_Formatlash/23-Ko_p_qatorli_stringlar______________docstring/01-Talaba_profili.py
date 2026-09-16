@@ -2,7 +2,4 @@ ism = input()
 yosh = input()
 kurs = input()
 
-print(f"Ism: {ism}")
-
-print(f"Yosh: {yosh}")
-print(f"Kurs: {kurs}")
+print(f"Ism: {ism}\nYosh: {yosh}\nKurs: {kurs}")
