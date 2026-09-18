@@ -1,9 +1,11 @@
-char = input()
-word = input()
+t = input()
+
+s = input()
 
 count = 0
-for ch in word:
-    if ch == char:
+
+for char in s:
+    if char == t:
         count += 1
         
 print(count)
