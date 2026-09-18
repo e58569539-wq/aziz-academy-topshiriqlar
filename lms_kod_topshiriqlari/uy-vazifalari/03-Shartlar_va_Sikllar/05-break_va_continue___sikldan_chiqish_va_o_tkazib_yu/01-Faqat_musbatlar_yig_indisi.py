@@ -1,11 +1,14 @@
 n = int(input())
-s = 0
-count = 0
+yigindi = 0
+sanoq = 0
 
-while count < n:
-    x = int(input())
-    count += 1
-    if x <= 0:
+while sanoq < n:
+    son = int(input())
+    sanoq += 1
+    
+    if son <= 0:
         continue
-    s += x
-print(s)
+        
+    yigindi += son
+    
+print(yigindi)
