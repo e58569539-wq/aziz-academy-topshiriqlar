@@ -1,5 +1,5 @@
-C = float(input())
+c = float(input())
 
-F = C * 9 / 5 + 32 
+f = c * 9 / 5 + 32
 
-print(F)
+print(f)
