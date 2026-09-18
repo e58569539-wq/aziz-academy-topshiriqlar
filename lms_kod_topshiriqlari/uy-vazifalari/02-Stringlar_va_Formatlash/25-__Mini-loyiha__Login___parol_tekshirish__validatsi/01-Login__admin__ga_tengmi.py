@@ -1,3 +1,2 @@
-login = input()
-
-print(login == "admin")
+login = input().strip()
+print(login == 'admin')
