@@ -1,12 +1,10 @@
 soni = int(input())
-narxi = int(input())
+narx = int(input())
 foiz = int(input())
- 
-umumiy = soni * narxi
 
-chegirma = (umumiy * foiz) // 100 
-
-yakuniy = umumiy - chegirma 
+umumiy = soni * narx
+chegirma = umumiy * foiz // 100
+yakuniy = umumiy - chegirma
 
 print(umumiy)
 print(chegirma)
