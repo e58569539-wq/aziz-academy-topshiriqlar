@@ -1,3 +1,3 @@
 soz = input()
 
-print(f"\"{soz}\"")
+print(f'"{soz}"')
