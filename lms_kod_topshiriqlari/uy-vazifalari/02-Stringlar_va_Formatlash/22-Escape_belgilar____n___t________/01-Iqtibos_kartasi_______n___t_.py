@@ -1,6 +1,5 @@
-iqtibos = input()
-muallif = input()
+quote = input()
 
-natija = f"\"{iqtibos}\"\n\t- {muallif}"
+author = input()
 
-print(natija)
+print(f'"{quote}"\n\t- {author}')
