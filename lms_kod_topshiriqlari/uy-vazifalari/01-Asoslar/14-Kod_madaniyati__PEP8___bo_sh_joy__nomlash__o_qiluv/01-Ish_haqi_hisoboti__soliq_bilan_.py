@@ -1,12 +1,10 @@
 soat = int(input())
 stavka = int(input())
-foiz = int(input())
- 
-yalpi = soat * stavka 
+soliq_foizi = int(input())
 
-soliq = (yalpi * foiz) // 100
-
-sof = yalpi - soliq 
+yalpi = soat * stavka
+soliq = yalpi * soliq_foizi // 100
+sof = yalpi - soliq
 
 print(yalpi)
 print(soliq)
