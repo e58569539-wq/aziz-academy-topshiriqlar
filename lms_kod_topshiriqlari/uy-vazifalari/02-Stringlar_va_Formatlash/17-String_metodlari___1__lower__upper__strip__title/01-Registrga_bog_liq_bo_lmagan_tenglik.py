@@ -1,6 +1,4 @@
-soz1 = input()
-soz2 = input()
+word1 = input().strip()
+word2 = input().strip()
 
-natija = (soz1.lower() == soz2.lower())
-
-print(natija)
+print(word1.lower() == word2.lower())
