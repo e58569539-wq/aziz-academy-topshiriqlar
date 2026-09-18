@@ -1,4 +1,4 @@
-soz1 = input()
-soz2 = input()
+word1 = input().strip()
+word2 = input().strip()
 
-print(f"{soz1}\t{soz2}")
+print(f"{word1}\t{word2}")
