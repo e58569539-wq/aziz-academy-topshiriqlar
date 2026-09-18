@@ -1,3 +1,2 @@
-matn = input()
-
-print(matn.title())
+s = input()
+print(s.title())
