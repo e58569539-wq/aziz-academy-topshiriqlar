@@ -1,5 +1,3 @@
-gap = input()
+gap = input().split()
 
-sozlar_royxati = gap.split()
-
-print(len(sozlar_royxati))
+print(len(gap))
