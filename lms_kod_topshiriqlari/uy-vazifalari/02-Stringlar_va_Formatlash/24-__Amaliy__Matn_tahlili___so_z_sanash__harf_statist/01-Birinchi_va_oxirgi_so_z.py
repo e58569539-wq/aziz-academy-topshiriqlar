@@ -1,8 +1,3 @@
-gap = input()
+sozlar = input().split()
 
-sozlar = gap.split()
-
-birinchi_soz = sozlar[0]
-oxirgi_soz = sozlar[-1]
-
-print(f"{birinchi_soz} {oxirgi_soz}")
+print(sozlar[0], sozlar[-1])
