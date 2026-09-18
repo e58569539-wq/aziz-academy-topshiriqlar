@@ -1,3 +1,3 @@
-ism, familya = input().split()
+ism, familiya = input().split()
 
-print(f"Familiya: {familya}, Ism: {ism}")
+print("Familiya: {}, Ism: {}".format(familiya, ism))
