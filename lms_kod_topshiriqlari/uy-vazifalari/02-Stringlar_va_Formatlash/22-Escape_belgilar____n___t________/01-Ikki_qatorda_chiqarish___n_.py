@@ -1,4 +1,4 @@
-soz1 = input()
-soz2 = input()
+s1 = input()
+s2 = input()
 
-print(f"{soz1}\n{soz2}")
+print(s1 + "\n" + s2)
