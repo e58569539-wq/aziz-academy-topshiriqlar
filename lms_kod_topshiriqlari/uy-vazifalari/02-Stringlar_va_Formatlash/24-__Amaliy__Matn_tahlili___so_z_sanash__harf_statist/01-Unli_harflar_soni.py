@@ -1,9 +1,6 @@
-text = input().lower()
+matn = input().lower()
 
-vowels_count = (text.count('a') + 
-                text.count('e') + 
-                text.count('i') + 
-                text.count('o') + 
-                text.count('u'))
+unlilar = "aeiou"
+jami = sum(matn.count(harf) for harf in unlilar)
 
-print(vowels_count)
+print(jami)
