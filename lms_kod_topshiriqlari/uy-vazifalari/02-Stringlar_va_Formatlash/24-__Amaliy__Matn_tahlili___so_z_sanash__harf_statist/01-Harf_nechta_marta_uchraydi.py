@@ -1,6 +1,5 @@
-matn = input()
-
-harf = input()
+matn = input().strip()
+harf = input().strip()
 
 natija = matn.count(harf)
 
