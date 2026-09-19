@@ -1,7 +1,11 @@
-s = input()
-count = 0
-for ch in s:
-    if ch in "aeiou":
-        count += 1
+soz = input().strip()
+
+unlilar = "aeiou"
+
+soni = 0
+
+for ch in soz:
+    if ch in unlilar:
+        soni += 1
         
-print(count)
+print(soni)
