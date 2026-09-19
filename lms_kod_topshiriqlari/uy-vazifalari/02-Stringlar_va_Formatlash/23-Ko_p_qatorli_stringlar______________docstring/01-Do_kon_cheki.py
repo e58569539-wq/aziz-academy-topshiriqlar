@@ -1,8 +1,8 @@
-mahsulot = input()
-narx = int(input())
-soni = int(input())
+mahsulot = input().strip()
+narx = int(input().strip())
+soni = int(input().strip())
 
-jami = narx * soni 
+jami = narx * soni
 
 print("===== CHEK =====")
 print(f"Mahsulot: {mahsulot}")
