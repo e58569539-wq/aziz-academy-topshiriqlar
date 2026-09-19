@@ -8,4 +8,4 @@ elif tur == 2:
 elif tur == 3:
     print(qiymat * 1000)
 else:
-    print("Notog'ri tanlov")
+    print("Notogri tanlov")
