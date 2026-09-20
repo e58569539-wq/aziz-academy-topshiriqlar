@@ -1,5 +1,4 @@
 n = int(input())
-
 if n > 0:
     if n % 2 == 0:
         print("Musbat juft")
@@ -8,4 +7,4 @@ if n > 0:
 elif n < 0:
     print("Manfiy")
 else:
-     print("Nol")
+    print("Nol")
