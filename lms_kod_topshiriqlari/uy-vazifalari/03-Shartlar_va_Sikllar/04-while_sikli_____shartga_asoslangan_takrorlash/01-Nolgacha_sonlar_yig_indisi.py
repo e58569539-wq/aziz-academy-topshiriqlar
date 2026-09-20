@@ -1,9 +1,9 @@
 yigindi = 0
+n = int(input())
 
-while True:
-    n = int(input())
-    if n == 0:
-        break
+while n != 0:
     yigindi += n
+    n = int(input())
     
 print(yigindi)
+
