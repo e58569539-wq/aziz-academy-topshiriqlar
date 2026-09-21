@@ -1,8 +1,9 @@
-dona = int(input())
+dona_soni = int(input())
 narx = int(input())
 
-umumiy = dona * narx
-solqili_summa = umumiy + umumiy // 10
+umumiy = dona_soni * narx
+
+soliqli_summa = umumiy + (umumiy // 10)
 
 print(umumiy)
-print(solqili_summa)
+print(soliqli_summa)
