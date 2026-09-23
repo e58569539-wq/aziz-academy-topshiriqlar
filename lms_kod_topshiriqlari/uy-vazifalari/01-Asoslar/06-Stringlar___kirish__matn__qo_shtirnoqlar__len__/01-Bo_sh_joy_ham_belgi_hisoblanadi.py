@@ -1,4 +1,3 @@
 matn = "Aziz Academy"
-
-print(f"Matn: {matn}")
-print(f"Belgilar soni: {len(matn)}")
+print("Matn:", matn)
+print("Belgilar soni:", len(matn))
