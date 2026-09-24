@@ -1,3 +1,2 @@
-son = float(input())
-
-print(son * 2)
+x = float(input())
+print(x * 2)
