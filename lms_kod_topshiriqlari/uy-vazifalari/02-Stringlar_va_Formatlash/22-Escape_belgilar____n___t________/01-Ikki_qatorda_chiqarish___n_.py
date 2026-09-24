@@ -1,4 +1,4 @@
-s1 = input()
-s2 = input()
+a = input()
+b = input()
 
-print(s1 + "\n" + s2)
+print(f"{a}\n{b}")
