@@ -1,5 +1,5 @@
 talaba = "Aziz"
 tolov_qilingan = False
 
-print(f"Talaba: {talaba}")
-print(f"To'lov qilingan: {tolov_qilingan}")
+print("Talaba: " + talaba)
+print("To'lov qilingan: " + str(tolov_qilingan))
