@@ -1,5 +1,5 @@
-login = input().strip()
-parol = input().strip()
+login = input()
+parol = input()
 
 print(f"Login: {login}")
 print(f"Parol uzunligi: {len(parol)}")
