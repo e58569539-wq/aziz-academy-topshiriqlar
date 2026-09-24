@@ -1,5 +1,2 @@
-matn = input()
-
-katta_matn = matn.upper()
-
-print(katta_matn)
+s = input()
+print(s.upper())
