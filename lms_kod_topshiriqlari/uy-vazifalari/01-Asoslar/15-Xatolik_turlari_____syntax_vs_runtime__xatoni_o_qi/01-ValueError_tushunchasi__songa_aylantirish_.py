@@ -1,2 +1,2 @@
-son = int(input())
-print(son * 3)
+x = int(input())
+print(x * 3)
