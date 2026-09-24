@@ -1,2 +1,2 @@
-s = input().strip()
+s = input()
 print(s[::-1])
