@@ -1,2 +1,2 @@
-satr = input()
-print(satr.replace(" ", "-"))
+s = input()
+print(s.replace(" ", "-"))
