@@ -1,3 +1,1 @@
-gap = input().split()
-
-print(len(gap))
+print(len(input().split()))
