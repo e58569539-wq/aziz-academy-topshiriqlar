@@ -1,3 +1,2 @@
-matn = input()
-
-print(len(matn.replace(" ", "")))
+text = input()
+print(len(text.replace(" ", "")))
