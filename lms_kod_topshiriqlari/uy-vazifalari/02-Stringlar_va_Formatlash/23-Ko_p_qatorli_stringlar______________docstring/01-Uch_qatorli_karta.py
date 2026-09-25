@@ -1,5 +1,5 @@
-Ali = input()
+ism = input()
 
-print("=== KARTA ===")
-print(f"Ism: {Ali}")
-print("=============")
+print(f"""=== KARTA ===
+Ism: {ism}
+=============""")
