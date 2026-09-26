@@ -3,4 +3,6 @@ yosh1 = input()
 ism2 = input()
 yosh2 = input()
 
-print(f"Ism\tYosh\n{ism1}\t{yosh1}\n{ism2}\t{yosh2}")
+print("Ism\tYosh")
+print(f"{ism1}\t{yosh1}")
+print(f"{ism2}\t{yosh2}")
