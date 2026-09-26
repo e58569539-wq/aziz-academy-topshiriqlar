@@ -1,11 +1,10 @@
-t = input()
+belgi = input()
+soz = input()
 
-s = input()
+sanagich = 0
 
-count = 0
-
-for char in s:
-    if char == t:
-        count += 1
+for ch in soz:
+    if ch == belgi:
+        sanagich += 1
         
-print(count)
+print(sanagich)
