@@ -1,5 +1,4 @@
-nums = input().split()
-
+elementlar = input().split()
 k = int(input())
 
-print(nums[k])
+print(elementlar[k])
