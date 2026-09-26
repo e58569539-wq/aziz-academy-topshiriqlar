@@ -1,10 +1,9 @@
 n = int(input())
-
-max_val = int(input())
+max_son = int(input())
 
 for _ in range(n - 1):
-    num = int(input())
-    if num > max_val:
-        max_val = num
+    son = int(input())
+    if son > max_son:
+        max_son = son
         
-print(max_val)
+print(max_son)
