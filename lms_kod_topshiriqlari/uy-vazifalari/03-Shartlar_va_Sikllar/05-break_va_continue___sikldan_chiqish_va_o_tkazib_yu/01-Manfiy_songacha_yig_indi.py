@@ -1,9 +1,9 @@
-s = 0
+yigindi = 0
 
 while True:
-    n = int(input())
-    if n < 0:
+    son = int(input())
+    if son < 0:
         break
-    s += n
+    yigindi += son
     
-print(s)
+print(yigindi)
