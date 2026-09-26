@@ -1,5 +1,5 @@
-quote = input()
+iqtibos = input()
+muallif = input()
 
-author = input()
-
-print(f'"{quote}"\n\t- {author}')
+print(f'"{iqtibos}"')
+print(f"\t- {muallif}")
