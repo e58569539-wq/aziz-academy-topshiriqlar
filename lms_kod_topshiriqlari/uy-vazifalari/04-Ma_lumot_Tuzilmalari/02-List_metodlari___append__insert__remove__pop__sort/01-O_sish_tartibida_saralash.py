@@ -1,10 +1,8 @@
 n = int(input())
-
-nums = []
+sonlar = []
 
 for _ in range(n):
-    nums.append(int(input()))
+    sonlar.append(int(input()))
     
-nums.sort()
-
-print(*nums)
+sonlar.sort()
+print(*(sonlar))
