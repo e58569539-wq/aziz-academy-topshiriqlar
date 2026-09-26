@@ -1,4 +1,4 @@
-word1 = input().strip()
-word2 = input().strip()
+s1 = input().strip().lower()
+s2 = input().strip().lower()
 
-print(word1.lower() == word2.lower())
+print(s1 == s2)
