@@ -1,13 +1,15 @@
-yigindi = 0
+total = 0
 
 while True:
-    son = int(input())
+    x = int(input())
     
-    if son == 0 or son > 100:
+    if x == 0:
         break
-    if son < 0:
+    elif x < 0:
         continue
+    elif x > 100:
+        break
         
-    yigindi += son
+    total += x
     
-print(yigindi)
+print(total)
