@@ -1,2 +1,6 @@
 parol = input()
-print(' ' not in parol and len(parol) >= 8)
+
+if ' ' not in parol and len(parol) >= 8:
+    print(True)
+else:
+    print(False)
