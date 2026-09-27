@@ -1,5 +1,4 @@
-matn = input()
-
+matn = input().strip()
 yigindi = 0
 
 for ch in matn:
