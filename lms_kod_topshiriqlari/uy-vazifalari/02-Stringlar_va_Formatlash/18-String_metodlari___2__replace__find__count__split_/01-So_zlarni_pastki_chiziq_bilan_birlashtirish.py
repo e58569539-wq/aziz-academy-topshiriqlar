@@ -1,1 +1,3 @@
-print('_'.join(input().split()))
+gap = input()
+sozlar = gap.split()
+print("_".join(sozlar))
