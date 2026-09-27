@@ -1,12 +1,12 @@
 n = int(input())
-topildi = False
+found = False
 
 for _ in range(n):
-    son = int(input())
-    if son % 7 == 0:
-        print(son)
-        topildi = True
+    x = int(input())
+    if not found and x % 7 == 0:
+        print(x)
+        found = True
         break
         
-if not topildi:
+if not found:
     print("yo'q")
