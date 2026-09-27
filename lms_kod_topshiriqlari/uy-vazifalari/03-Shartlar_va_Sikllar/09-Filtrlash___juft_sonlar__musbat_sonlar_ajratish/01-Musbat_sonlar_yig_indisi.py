@@ -1,20 +1,9 @@
-import sys
+n = int(input())
+total = 0
 
-def main():
-    input_data = sys.stdin.read().split()
-    
-    if not input_data:
-        return
-    
-    n = int(input_data[0])
-    total_sum = 0
-    
-    for i in range(1, n + 1):
-        num = int(input_data[i])
-        if num > 0:
-            total_sum += num
+for _ in range(n):
+    x = int(input())
+    if x > 0:
+        total += x
         
-    print(total_sum)
-    
-if __name__ == '__main__':
-    main()
+print(total)
