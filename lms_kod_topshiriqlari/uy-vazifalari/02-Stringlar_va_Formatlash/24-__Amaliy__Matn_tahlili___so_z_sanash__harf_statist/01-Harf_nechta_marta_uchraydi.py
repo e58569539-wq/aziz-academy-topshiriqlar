@@ -1,6 +1,3 @@
 matn = input().strip()
 harf = input().strip()
-
-natija = matn.count(harf)
-
-print(natija)
+print(matn.count(harf))
