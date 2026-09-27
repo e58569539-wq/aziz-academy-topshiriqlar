@@ -1,4 +1,5 @@
-matn = input()
-soz = input()
+matn = input().strip()
+soz = input().strip()
 
-print(soz not in matn)
+natija = soz not in matn
+print(natija)
