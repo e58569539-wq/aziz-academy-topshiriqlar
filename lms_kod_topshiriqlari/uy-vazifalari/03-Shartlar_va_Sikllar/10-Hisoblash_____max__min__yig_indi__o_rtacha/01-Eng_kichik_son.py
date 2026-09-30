@@ -1,11 +1,5 @@
 n = int(input())
 
-birinchi_son = int(input())
-eng_kichik = birinchi_son
+sonlar = [int(input()) for _ in range(n)]
 
-for _ in range(n - 1):
-    son = int(input())
-    if son < eng_kichik:
-        eng_kichik = son
-        
-print(eng_kichik)
+print(min(sonlar))
