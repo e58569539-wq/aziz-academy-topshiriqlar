@@ -1,0 +1,16 @@
+# N ta mahsulot
+# Mahsulotlarni narx bo‘yicha o‘sish tartibida chiqarish
+# Har qator: name price
+
+n = int(input())
+products = []
+for _ in range(n):
+    name, price = input().split()
+    products.append({'name': name, 'price': int(price)})
+# TODO
+def narx(p):
+    return p['price']
+
+products.sort(key=narx)
+for p in products:
+    print(p['name'], p['price'])
